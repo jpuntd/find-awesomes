@@ -1,0 +1,566 @@
+{
+  "data": {
+    "search": {
+      "edges": [
+        {
+          "node": {
+            "nameWithOwner": "micromata/awesome-javascript-learning",
+            "description": "A tiny list limited to the best JavaScript Learning Resources",
+            "createdAt": "2016-11-16T19:33:28Z",
+            "updatedAt": "2020-04-24T20:47:22Z",
+            "url": "https://github.com/micromata/awesome-javascript-learning"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "sindresorhus/awesome-nodejs",
+            "description": ":zap: Delightful Node.js packages and resources",
+            "createdAt": "2014-07-11T13:35:34Z",
+            "updatedAt": "2020-04-26T18:34:12Z",
+            "url": "https://github.com/sindresorhus/awesome-nodejs"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "serhii-londar/open-source-mac-os-apps",
+            "description": "🚀 Awesome list of open source applications for macOS.",
+            "createdAt": "2017-11-03T02:35:33Z",
+            "updatedAt": "2020-04-26T19:10:48Z",
+            "url": "https://github.com/serhii-londar/open-source-mac-os-apps"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "MaximAbramchuck/awesome-interview-questions",
+            "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+            "createdAt": "2015-11-28T09:48:17Z",
+            "updatedAt": "2020-04-26T20:14:30Z",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "ityouknow/awesome-list",
+            "description": "collect all  awesome about IT",
+            "createdAt": "2017-06-16T08:46:16Z",
+            "updatedAt": "2020-04-22T03:56:29Z",
+            "url": "https://github.com/ityouknow/awesome-list"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "candelibas/awesome-ionic",
+            "description": "An \"awesome\" list of Ionic resources ",
+            "createdAt": "2016-03-13T21:57:43Z",
+            "updatedAt": "2020-04-24T08:50:42Z",
+            "url": "https://github.com/candelibas/awesome-ionic"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "automata/awesome-jamstack",
+            "description": "Carefully curated list of awesome JAMstack resources",
+            "createdAt": "2018-05-15T12:53:35Z",
+            "updatedAt": "2020-04-26T02:17:51Z",
+            "url": "https://github.com/automata/awesome-jamstack"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "lorien/awesome-web-scraping",
+            "description": "List of libraries, tools and APIs for web scraping and data processing.",
+            "createdAt": "2015-08-12T19:55:27Z",
+            "updatedAt": "2020-04-26T14:10:36Z",
+            "url": "https://github.com/lorien/awesome-web-scraping"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "petk/awesome-jquery",
+            "description": "A curated list of awesome jQuery plugins, resources and other shiny things.",
+            "createdAt": "2014-10-30T08:06:08Z",
+            "updatedAt": "2020-04-26T11:33:27Z",
+            "url": "https://github.com/petk/awesome-jquery"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "lk-geimfari/awesomo",
+            "description": "An extensive list of cool open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.",
+            "createdAt": "2016-12-13T17:44:11Z",
+            "updatedAt": "2020-04-26T18:15:32Z",
+            "url": "https://github.com/lk-geimfari/awesomo"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "MFatihMAR/Game-Networking-Resources",
+            "description": "A Curated List of Game Network Programming Resources",
+            "createdAt": "2018-01-24T09:05:00Z",
+            "updatedAt": "2020-04-26T18:13:47Z",
+            "url": "https://github.com/MFatihMAR/Game-Networking-Resources"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "sindresorhus/awesome-observables",
+            "description": "Awesome Observable related stuff - An Observable is a collection that arrives over time.",
+            "createdAt": "2016-05-03T11:56:58Z",
+            "updatedAt": "2020-04-11T19:20:35Z",
+            "url": "https://github.com/sindresorhus/awesome-observables"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "bnb/awesome-awesome-nodejs",
+            "description": "🐢🚀 An Awesome list of Awesome lists related to Node.js.",
+            "createdAt": "2017-12-10T00:09:41Z",
+            "updatedAt": "2020-04-23T22:00:23Z",
+            "url": "https://github.com/bnb/awesome-awesome-nodejs"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "palashmon/awesome-js-posts",
+            "description": "A curated list of latest posts, blogs and repositories related to JavaScript.",
+            "createdAt": "2018-06-12T14:41:35Z",
+            "updatedAt": "2020-04-19T17:52:08Z",
+            "url": "https://github.com/palashmon/awesome-js-posts"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "styfle/awesome-desktop-js",
+            "description": "🖥️ A list of awesome packages and frameworks for implementing javascript applications on the desktop",
+            "createdAt": "2018-06-06T13:28:51Z",
+            "updatedAt": "2020-04-26T14:56:50Z",
+            "url": "https://github.com/styfle/awesome-desktop-js"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "raphamorim/awesome-canvas",
+            "description": "A curated list of awesome HTML5 Canvas with examples, related articles and posts.",
+            "createdAt": "2014-12-23T18:28:02Z",
+            "updatedAt": "2020-04-24T07:36:13Z",
+            "url": "https://github.com/raphamorim/awesome-canvas"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "FancyGrid/awesome-grid",
+            "description": "A curated list of grid(table) libraries and resources that developers may find useful.",
+            "createdAt": "2016-05-06T14:13:31Z",
+            "updatedAt": "2020-04-26T10:45:31Z",
+            "url": "https://github.com/FancyGrid/awesome-grid"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "hantuzun/awesome-clojurescript",
+            "description": "A community driven list of ClojureScript frameworks, libraries and wrappers.",
+            "createdAt": "2015-04-27T14:33:33Z",
+            "updatedAt": "2020-04-25T07:01:54Z",
+            "url": "https://github.com/hantuzun/awesome-clojurescript"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "mikalv/awesome-qt-qml",
+            "description": "A curated list of awesome Qt and QML libraries, resources, projects, and shiny things.",
+            "createdAt": "2017-06-25T01:13:46Z",
+            "updatedAt": "2020-04-25T20:41:38Z",
+            "url": "https://github.com/mikalv/awesome-qt-qml"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "Level/awesome",
+            "description": "An open list of awesome Level modules and resources.",
+            "createdAt": "2017-09-14T10:08:44Z",
+            "updatedAt": "2020-04-23T14:18:54Z",
+            "url": "https://github.com/Level/awesome"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "slikts/tooling",
+            "description": "🧰 Up-to-date list of JavaScript and TypeScript tooling resources",
+            "createdAt": "2020-03-07T18:51:47Z",
+            "updatedAt": "2020-04-24T18:45:46Z",
+            "url": "https://github.com/slikts/tooling"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "reyronald/awesome-toolkits",
+            "description": "A curated list of open source, high-quality, popular and well maintained \"zero-configuration\" (#0CJS) toolkits",
+            "createdAt": "2018-01-15T16:44:55Z",
+            "updatedAt": "2020-04-22T17:32:50Z",
+            "url": "https://github.com/reyronald/awesome-toolkits"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "petk/awesome-dojo",
+            "description": "A curated list of awesome Dojo JavaScript Toolkit libraries, resources and other shiny things.",
+            "createdAt": "2014-10-22T11:11:18Z",
+            "updatedAt": "2020-03-24T18:21:36Z",
+            "url": "https://github.com/petk/awesome-dojo"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "ganny26/awesome-audioqr",
+            "description": "A curated list of Audio QR / NSDT libraries",
+            "createdAt": "2016-04-24T05:01:41Z",
+            "updatedAt": "2020-04-18T21:59:29Z",
+            "url": "https://github.com/ganny26/awesome-audioqr"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "sindresorhus/promise-fun",
+            "description": "Promise packages, patterns, chat, and tutorials",
+            "createdAt": "2016-10-20T09:23:43Z",
+            "updatedAt": "2020-04-26T01:59:04Z",
+            "url": "https://github.com/sindresorhus/promise-fun"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "koolamusic/awesome-imba",
+            "description": ":star: A curated list of awesome Imba frameworks, libraries, software and resources",
+            "createdAt": "2018-11-22T11:47:01Z",
+            "updatedAt": "2020-04-08T09:16:25Z",
+            "url": "https://github.com/koolamusic/awesome-imba"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "standard/awesome-standard",
+            "description": "Documenting the explosion of packages in the standard ecosystem!",
+            "createdAt": "2015-08-09T16:33:22Z",
+            "updatedAt": "2020-03-19T11:53:20Z",
+            "url": "https://github.com/standard/awesome-standard"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "alpinejs/awesome-alpine",
+            "description": "🚀A curated list of awesome resources related to Alpine.",
+            "createdAt": "2020-03-01T18:45:15Z",
+            "updatedAt": "2020-04-26T17:59:28Z",
+            "url": "https://github.com/alpinejs/awesome-alpine"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "robatwilliams/awesome-webhid",
+            "description": "Curated list of resources relating to the WebHID (Human Interface Device) API",
+            "createdAt": "2019-03-28T13:06:42Z",
+            "updatedAt": "2020-04-01T19:18:30Z",
+            "url": "https://github.com/robatwilliams/awesome-webhid"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "Gradients/awesome-gradient",
+            "description": "😎 A curated list of awesome Gradient frameworks, libraries and software and resources",
+            "createdAt": "2018-10-09T06:11:41Z",
+            "updatedAt": "2020-04-02T23:39:21Z",
+            "url": "https://github.com/Gradients/awesome-gradient"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "giftkugel/awesome-ruhr-it-jobs",
+            "description": "A curated list  of employers for software developers",
+            "createdAt": "2019-03-09T11:03:28Z",
+            "updatedAt": "2020-03-06T11:28:52Z",
+            "url": "https://github.com/giftkugel/awesome-ruhr-it-jobs"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "joshuamabina/awesome",
+            "description": "My curated list of awesome things.",
+            "createdAt": "2017-03-17T12:47:19Z",
+            "updatedAt": "2020-02-19T02:28:43Z",
+            "url": "https://github.com/joshuamabina/awesome"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "IainIsCreative/awesome-nodebots",
+            "description": "A list of resources, links, tools, tutorials and more to make nodebots — robots powered by web technology.",
+            "createdAt": "2017-04-07T14:49:08Z",
+            "updatedAt": "2020-01-19T19:38:11Z",
+            "url": "https://github.com/IainIsCreative/awesome-nodebots"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "soixantecircuits/awesome-app-js",
+            "description": "This document list all the javascript libs used at Soixante circuits. They are compatible with Webpack and run in the browser and / or node only.",
+            "createdAt": "2016-01-23T15:06:49Z",
+            "updatedAt": "2020-01-15T23:27:46Z",
+            "url": "https://github.com/soixantecircuits/awesome-app-js"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "nazimboudeffa/awesome-javascript",
+            "description": "A curated list of awesome javascript ressources",
+            "createdAt": "2019-04-11T10:37:54Z",
+            "updatedAt": "2020-02-29T10:58:18Z",
+            "url": "https://github.com/nazimboudeffa/awesome-javascript"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "techmexdev/awesome-cs-js",
+            "description": "Curated list of Computer Science Javascript resources",
+            "createdAt": "2017-02-25T07:16:10Z",
+            "updatedAt": "2017-06-09T20:31:50Z",
+            "url": "https://github.com/techmexdev/awesome-cs-js"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "Richienb/awesome-ponyfills",
+            "description": "A curated list of awesome ponyfills for writing cross-platform and cross-browser code.",
+            "createdAt": "2019-12-30T02:16:23Z",
+            "updatedAt": "2020-03-15T02:44:49Z",
+            "url": "https://github.com/Richienb/awesome-ponyfills"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "versutus/the-awesome",
+            "description": ":rocket: just another list of awesome stuff curated by @gaboesquivel",
+            "createdAt": "2015-09-04T19:34:53Z",
+            "updatedAt": "2019-02-25T17:50:22Z",
+            "url": "https://github.com/versutus/the-awesome"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "amandeepmittal/awesome-vulcan",
+            "description": "🗒 A list of resources to learn awesome VulcanJS 🖖",
+            "createdAt": "2017-10-22T06:09:15Z",
+            "updatedAt": "2019-12-10T11:35:34Z",
+            "url": "https://github.com/amandeepmittal/awesome-vulcan"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-javascript-chromeapps",
+            "description": "List of awesome resources: chrome apps, extensions, Articles about using javascript development",
+            "createdAt": "2017-09-21T06:27:20Z",
+            "updatedAt": "2019-03-27T09:45:37Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-javascript-chromeapps"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "FrontBand/awesome-education",
+            "description": "A curated list of education courses, videos, materials, recommended by FrontBand team",
+            "createdAt": "2018-09-26T12:24:11Z",
+            "updatedAt": "2019-06-08T19:31:07Z",
+            "url": "https://github.com/FrontBand/awesome-education"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "michalczaplinski/awesome-concurrent-react",
+            "description": "💫 A curated list of resources about the upcoming Concurrent React mode",
+            "createdAt": "2019-10-31T17:35:41Z",
+            "updatedAt": "2020-04-10T10:41:36Z",
+            "url": "https://github.com/michalczaplinski/awesome-concurrent-react"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "josephmcasey/awesome-javascript-performance",
+            "description": "An awesome list about computationally performant JavaScript with minimal space requirements.",
+            "createdAt": "2017-11-19T23:25:16Z",
+            "updatedAt": "2017-12-15T23:26:17Z",
+            "url": "https://github.com/josephmcasey/awesome-javascript-performance"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "baltazarparra/awesome-async",
+            "description": ":cyclone: A curated list of Async javascript flow",
+            "createdAt": "2019-08-13T10:51:37Z",
+            "updatedAt": "2019-08-20T09:45:21Z",
+            "url": "https://github.com/baltazarparra/awesome-async"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "digilifecz123/open-source-js-apps",
+            "description": "🚀 Awesome list of open source javascript applications.",
+            "createdAt": "2019-07-12T06:55:03Z",
+            "updatedAt": "2019-07-12T08:53:19Z",
+            "url": "https://github.com/digilifecz123/open-source-js-apps"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-parcel",
+            "description": ":package: A curated list of awesome parceljs resources :rocket: ",
+            "createdAt": "2017-12-11T03:26:10Z",
+            "updatedAt": "2019-03-27T09:32:28Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-parcel"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-handbook",
+            "description": "A list of awesome handbook",
+            "createdAt": "2017-10-20T15:44:01Z",
+            "updatedAt": "2019-03-27T09:48:34Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-handbook"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-docs",
+            "description": "A list of awesome docs ",
+            "createdAt": "2017-10-20T15:48:09Z",
+            "updatedAt": "2019-03-27T09:37:53Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-docs"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "zhyq0826/awesome-blog",
+            "description": "awesome blog list",
+            "createdAt": "2017-06-16T04:58:02Z",
+            "updatedAt": "2019-05-12T02:50:50Z",
+            "url": "https://github.com/zhyq0826/awesome-blog"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "team-mahal/awesome-node",
+            "description": "A curated list of awesome things related to nodejs",
+            "createdAt": "2020-01-22T15:25:25Z",
+            "updatedAt": "2020-04-21T02:57:45Z",
+            "url": "https://github.com/team-mahal/awesome-node"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "mikkelrd/style-guides",
+            "description": "curated list of links to popular front end style guides",
+            "createdAt": "2017-04-11T20:29:37Z",
+            "updatedAt": "2019-11-23T05:19:31Z",
+            "url": "https://github.com/mikkelrd/style-guides"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "georgebutler/awesome-web-developer-resources",
+            "description": "A curated list of awesome frameworks, libraries, style guides, articles, and resources for web development.",
+            "createdAt": "2018-12-20T01:43:55Z",
+            "updatedAt": "2020-04-06T22:02:11Z",
+            "url": "https://github.com/georgebutler/awesome-web-developer-resources"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "alexjoverm/awesome-resources",
+            "description": "Personal list of curated resources",
+            "createdAt": "2017-03-28T08:56:39Z",
+            "updatedAt": "2017-03-28T08:59:33Z",
+            "url": "https://github.com/alexjoverm/awesome-resources"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "ltchris/awesome-contexture",
+            "description": "A curated list of the best Contexture websites, libraries, and resources.",
+            "createdAt": "2020-03-08T02:00:27Z",
+            "updatedAt": "2020-03-30T06:00:51Z",
+            "url": "https://github.com/ltchris/awesome-contexture"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-playground",
+            "description": "A list of awesome playground |  REPL",
+            "createdAt": "2017-10-20T15:31:16Z",
+            "updatedAt": "2019-03-27T09:38:22Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-playground"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-ramda",
+            "description": "🐏   Awesome ramda resources http://ramdajs.com",
+            "createdAt": "2017-10-18T03:30:23Z",
+            "updatedAt": "2019-03-27T09:47:09Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-ramda"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-axios",
+            "description": " List of awesome resources: Books, Videos, Articles about using axios",
+            "createdAt": "2017-10-18T02:31:28Z",
+            "updatedAt": "2019-03-27T09:48:46Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-axios"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "DerekSeverson/awesome-fullstack-js",
+            "description": "🚀 A curated list of awesome modules, tools, resources, etc. for full-stack javascript developers and architects.",
+            "createdAt": "2019-10-02T15:57:40Z",
+            "updatedAt": "2019-10-02T16:04:13Z",
+            "url": "https://github.com/DerekSeverson/awesome-fullstack-js"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kasiriveni-awesome/awesome-lerna",
+            "description": "🐉 A curated list of awesome learn a tool for managing JavaScript projects 🐉",
+            "createdAt": "2019-03-27T16:27:39Z",
+            "updatedAt": "2019-03-27T16:31:44Z",
+            "url": "https://github.com/kasiriveni-awesome/awesome-lerna"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "pierrechls/awesome-app-js",
+            "description": "😎  An awesome and curated list of javascript libraries that I use",
+            "createdAt": "2017-01-09T10:21:23Z",
+            "updatedAt": "2019-02-12T11:18:58Z",
+            "url": "https://github.com/pierrechls/awesome-app-js"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "kevinpollet/awesome",
+            "description": "A curated and updated list of awesome links on the interesting topics and things I've met in my endless developer journey",
+            "createdAt": "2019-11-08T05:01:44Z",
+            "updatedAt": "2020-04-18T12:09:37Z",
+            "url": "https://github.com/kevinpollet/awesome"
+          }
+        },
+        {
+          "node": {
+            "nameWithOwner": "adityaprakash-bobby/noob-to-pro",
+            "description": "A compilation of Programming resources and everything computers",
+            "createdAt": "2019-07-14T17:16:54Z",
+            "updatedAt": "2020-03-31T08:33:08Z",
+            "url": "https://github.com/adityaprakash-bobby/noob-to-pro"
+          }
+        }
+      ]
+    }
+  }
+}
