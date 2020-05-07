@@ -1,0 +1,29 @@
+{
+  search(query: "topic:awesome javascript", type: REPOSITORY, first: 3) {
+    edges {
+      node {
+        ... on Repository {
+          repositoryTopics(first: 100) {
+            edges {
+              node {
+                topic {
+                  name
+                }
+              }
+            }
+          }
+          nameWithOwner
+          description
+          stargazers {
+            totalCount
+          }
+          projectsUrl
+          pullRequests {
+            totalCount
+          }
+          updatedAt
+        }
+      }
+    }
+  }
+}
